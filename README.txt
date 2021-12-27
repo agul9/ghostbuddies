@@ -1,8 +1,8 @@
 HOW TO PLAY:
     LEVEL 1: shoot 10 animals by hitting B to win the level
     LEVEL 2: all the bats are in the top left corner when the game starts, so avoid the witches and go there to get candy first.
-        once you have some candy, start shooting the witches by pressing A till some animals come up, and then it's just like level one -
-        shoot 10 animals to win the level!
+            once you have some candy, start shooting the witches by pressing A till some animals come up, and then it's just like level one -
+            shoot 10 animals to win the level!
     LEVEL 3: collect all 10 bats to win but make sure to avoid the witches completely - candy to kill them is scattered about the map
 
     Or just press R to use the cheat that lets you shoot animals and witches at once!

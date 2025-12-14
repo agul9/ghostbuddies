@@ -1,3 +1,5 @@
+<img width="800" height="501" alt="Screenshot 2025-12-14 181056" src="https://github.com/user-attachments/assets/9c640a82-f482-4b14-8994-2eeb3489a9a8" />
+
 # Ghost Buddies
 A Game Boy Advance emulator game built in C, featuring original game art, sprites, and interactive gameplay mechanics.
 
@@ -21,4 +23,5 @@ C, Gameboy Advance Emulator
 1. Once you've downloaded the files, make sure you have a working GBA emulator
    (ex: the one I used can be downloaded here: https://www.emulatorgames.net/emulators/gameboy-advance/visualboyadvance-m-64-bit-2-0-2/)
 2. Copy the exact file path of the emulator next to "command" in the tasks.jason file in the .vscode folder
+
 

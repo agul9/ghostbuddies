@@ -1,3 +1,13 @@
+#Ghost Buddies
+**Description**  
+A Game Boy Advance emulator game built in C, featuring original game art, sprites, and interactive gameplay mechanics.
+
+**My Role**  
+Designed all game art and maps and implemented gameplay mechanics, including animations, collision detection, and screen transitions.
+
+**Tech Stack**  
+C, Gameboy Advance Emulator
+
 HOW TO PLAY:
     LEVEL 1: shoot 10 animals by hitting B to win the level
     LEVEL 2: all the bats are in the top left corner when the game starts, so avoid the witches and go there to get candy first. Once you have some candy, start shooting the  witches by pressing A till some animals come up, and then it's just like level one - shoot 10 animals to win the level!
